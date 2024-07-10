@@ -32,3 +32,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### `npm run lint` and `npm run fix`
+
+Calls the fashion police, aka [gts](https://github.com/google/gts), a Google-maintained,
+opinionated combination of [eslint](https://eslint.org/), [prettier](https://prettier.io/),
+and friends. Use `lint` if you want to think about formatting, and `fix` if you don't.
